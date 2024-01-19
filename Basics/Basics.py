@@ -136,3 +136,36 @@ C = 2 * math.pi * r
 A = math.pi * r ** 2
 print("Circumference: " + str(C))
 print("Area: " + str(A))
+
+#
+from math import radians
+r = 192500
+phi = radians(12)
+dist = r * phi
+print(dist)
+
+#
+from scipy.linalg import inv as my_inv
+matrix = [[1, 2], [3, 4]]
+inverse_matrix = my_inv(matrix)
+print(inverse_matrix)
+
+# numpy
+import numpy as np
+baseball = [180, 215, 210, 210, 188, 176, 209, 200]
+np_baseball = np.array(baseball)
+print(type(np_baseball)) # <class 'numpy.ndarray'>
+
+#
+import numpy as np
+np_height_in = np.array(height_in)
+print(np_height_in)
+np_height_m = np_height_in * 0.0254
+print(np_height_m)
+
+#
+import numpy as np
+np_height_m = np.array(height_in) * 0.0254
+np_weight_kg = np.array(weight_lb) * 0.453592
+bmi = np_weight_kg / np_height_m ** 2
+print(bmi)
