@@ -16,4 +16,4 @@ This repository contains the code and projects completed during the Python data 
 
 ### [Netflix Data Analysis Project](Projects/NetflixDataAnalysisProject)
 
-This project focuses on analyzing Netflix movie data using Python. The primary objective is to investigate trends in the duration of movies on the platform. The analysis is conducted in the Jupyter Notebook file, [InvestigatingNetflixMovies.ipynb](InvestigatingNetflixMovies.ipynb), and relies on the dataset provided in [netflix_data.csv](netflix_data.csv).
+This project focuses on analyzing Netflix movie data using Python. The primary objective is to investigate trends in the duration of movies on the platform. The analysis is conducted in the Jupyter Notebook file, [InvestigatingNetflixMovies.ipynb](Projects/NetflixDataAnalysisProject/InvestigatingNetflixMovies.ipynb), and relies on the dataset provided in [netflix_data.csv](Projects/NetflixDataAnalysisProject/netflix_data.csv).
