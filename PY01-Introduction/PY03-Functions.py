@@ -36,6 +36,7 @@ print(sister.index("z")) # 2
 
 # append and delete
 new_item = ["me",1.68]
+house = [['hallway', 11.25], ['kitchen', 2], ['living room', 20.0], ['bedroom', 10.75], ['bathroom', 9.5]]
 house.append(new_item) # [['hallway', 11.25], ['kitchen', 2], ['living room', 20.0], ['bedroom', 10.75], ['bathroom', 9.5], ['me', 1.68]]
 print(house)
 del(house[1])
