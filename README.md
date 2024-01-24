@@ -4,12 +4,12 @@ This repository contains the code and projects completed during the Python data 
 
 ## Table of Contents
 
-- [PY01-Introduction](Python/PY01-Introduction)
-- [PY02-Matplotlib](Python/PY02-Matplotlib)
-- [PY03-Dictionaries & Pandas](Python/PY03-Dictionaries&Pandas)
-- [PY04-Logic & Control Flow & Filtering](Python/PY04-Logic&ControlFlow&Filtering)
-- [PY05-Loops](Python/PY05-Loops)
-- [PY06-Pandas](Python/PY06-Pandas)
+- [PY01-Introduction](PY01-Introduction)
+- [PY02-Matplotlib](PY02-Matplotlib)
+- [PY03-Dictionaries & Pandas](PY03-Dictionaries&Pandas)
+- [PY04-Logic & Control Flow & Filtering](PY04-Logic&ControlFlow&Filtering)
+- [PY05-Loops](PY05-Loops)
+- [PY06-Pandas](PY06-Pandas)
 - [Projects](#projects)
   - [Netflix Data Analysis Project](Projects/NetflixDataAnalysisProject)
 
