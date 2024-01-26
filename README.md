@@ -9,7 +9,7 @@ This repository contains the code and projects completed during the Python data 
 - [PY03-Dictionaries & Pandas](PY03-Dictionaries&Pandas)
 - [PY04-Logic & Control Flow & Filtering](PY04-Logic&ControlFlow&Filtering)
 - [PY05-Loops](PY05-Loops)
-- [PY06-Pandas](PY06-Pandas)
+- [PY06-DataFrames](PY06-DataFrames)
 - [Projects](#projects)
   - [Netflix Data Analysis Project](Projects/NetflixDataAnalysisProject)
 
